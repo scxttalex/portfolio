@@ -4,15 +4,15 @@ export default function Home() {
   return (
     <> 
         <div>
-          Rachel Smells xx
+          spooderman
         </div>
 
         <div>
-          idk what to put here
+          idk what to put here yet
         </div>
 
         <main>
-          hmmmmmmmmmmmmm 2
+          hmmmmmmmmmmmmm 3
           <p> pspspspsp</p>
         </main>
      </>
