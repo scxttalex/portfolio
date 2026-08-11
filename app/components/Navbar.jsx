@@ -47,7 +47,7 @@ const Navbar = () => {
   }, [pathname]);
 
   return (
-    <nav className="relative px-6 py-5 sm:px-8">
+    <nav className="relative px-6 py-5 sm:px-8 bg-black/5 dark:bg-white/10">
       <div className="flex items-center justify-between">
         <Link
           href="/"
