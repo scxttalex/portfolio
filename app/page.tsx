@@ -1,10 +1,20 @@
 'use client'
-import Navbar from "./components/Navbar"
 
 export default function Home() {
   return (
     <> 
-        rachel smells
+        <div>
+          Rachel Smells xx
+        </div>
+
+        <div>
+          idk what to put here
+        </div>
+
+        <main>
+          chud ts
+          <p> pspspspsp</p>
+        </main>
      </>
   );
 }

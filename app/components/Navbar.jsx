@@ -53,7 +53,7 @@ const Navbar = () => {
           href="/"
           className="text-xl font-bold text-gray-900 dark:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-blue-500 rounded"
         >
-          Home
+          Scott Thomson
         </Link>
 
         {/* Desktop links */}
