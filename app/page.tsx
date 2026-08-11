@@ -12,7 +12,7 @@ export default function Home() {
         </div>
 
         <main>
-          hmmmmmmmmmmmmm
+          hmmmmmmmmmmmmm 2
           <p> pspspspsp</p>
         </main>
      </>
